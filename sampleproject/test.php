@@ -1,3 +1,3 @@
 <?php
- echo "sample test ok done what next";
+ echo "sample test same test2 ok done what next";
 ?>
